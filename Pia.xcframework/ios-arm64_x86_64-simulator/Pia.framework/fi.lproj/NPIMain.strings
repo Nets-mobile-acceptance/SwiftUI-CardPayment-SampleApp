@@ -1,0 +1,114 @@
+
+/* Class = "UINavigationItem"; title = "Pay"; ObjectID = "2ve-Yb-jZx"; */
+"2ve-Yb-jZx.title" = "Maksa";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "6kC-KR-tTY"; */
+"6kC-KR-tTY.title" = "Sulje";
+
+/* Class = "UIButton"; normalTitle = "Enter card details manually"; ObjectID = "6uE-2D-w3O"; */
+"6uE-2D-w3O.normalTitle" = "Syötä kortin tiedot käsin";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7aK-xj-ubs"; */
+"7aK-xj-ubs.text" = "Label";
+
+/* Class = "UILabel"; text = "Expires 01/02"; ObjectID = "7t7-gh-n4H"; */
+"7t7-gh-n4H.text" = "Voimassaolo 01/02";
+
+/* Class = "UILabel"; text = "Security code (CVV)"; ObjectID = "C2j-h3-de9"; */
+"C2j-h3-de9.text" = "Turvakoodi (CVC)";
+
+/* Class = "UIViewController"; title = "Save card"; ObjectID = "CLb-TY-IfK"; */
+"CLb-TY-IfK.title" = "Tallenna kortti";
+
+/* Class = "UILabel"; text = "Security code (CVC/CVV/CID)"; ObjectID = "MIS-Ox-ODE"; */
+"MIS-Ox-ODE.text" = "Turvakoodi (CVC/CVV/CID)";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "OHs-C8-XLD"; */
+"OHs-C8-XLD.normalTitle" = "Maksa";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "TeA-ET-1da"; */
+"TeA-ET-1da.normalTitle" = "Peruuta";
+
+/* Class = "UITextField"; placeholder = "MM/YY"; ObjectID = "TjJ-HM-71I"; */
+"TjJ-HM-71I.placeholder" = "KK/VV";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "WSq-WE-mEY"; */
+"WSq-WE-mEY.text" = "*";
+
+/* Class = "UINavigationItem"; title = "Scan credit card"; ObjectID = "Wgs-Gr-Ad4"; */
+"Wgs-Gr-Ad4.title" = "Lue kortti kameralla";
+
+/* Class = "UITextField"; placeholder = "•••"; ObjectID = "Yex-6I-Bvw"; */
+"Yex-6I-Bvw.placeholder" = "•••";
+
+/* Class = "UITextField"; placeholder = "•••"; ObjectID = "Zfp-7B-9Pi"; */
+"Zfp-7B-9Pi.placeholder" = "•••";
+
+/* Class = "UILabel"; text = "Expiration date"; ObjectID = "dL8-Rp-Ara"; */
+"dL8-Rp-Ara.text" = "Voimassa asti";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "dQA-8T-tjV"; */
+"dQA-8T-tjV.text" = "Summa";
+
+/* Class = "UINavigationItem"; title = "Pay"; ObjectID = "fYb-o9-wch"; */
+"fYb-o9-wch.title" = "Maksa";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gW5-6r-nUJ"; */
+"gW5-6r-nUJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ge6-5j-uzV"; */
+"ge6-5j-uzV.text" = "Label";
+
+/* Class = "UILabel"; text = "Position card in the frame."; ObjectID = "jG2-0g-Gh1"; */
+"jG2-0g-Gh1.text" = "Kohdista kortti kehykseen";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "jRx-Dg-bho"; */
+"jRx-Dg-bho.text" = "*";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "jaZ-Y1-lYK"; */
+"jaZ-Y1-lYK.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "•••• •••• •••• ••••"; ObjectID = "lC6-3w-tQ1"; */
+"lC6-3w-tQ1.placeholder" = "•••• •••• •••• ••••";
+
+/* Class = "UILabel"; text = "It will scan automatically."; ObjectID = "m6z-52-d5z"; */
+"m6z-52-d5z.text" = "Se luetaan automaattisesti";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "meC-6f-wM9"; */
+"meC-6f-wM9.title" = "Peruuta";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "o6V-kb-cIs"; */
+"o6V-kb-cIs.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "oMi-Nk-BA4"; */
+"oMi-Nk-BA4.title" = "Sulje";
+
+/* Class = "UIButton"; normalTitle = "Save card"; ObjectID = "p3R-at-mvD"; */
+"p3R-at-mvD.normalTitle" = "Tallenna kortti";
+
+/* Class = "UILabel"; text = "Card number"; ObjectID = "s87-w5-MG4"; */
+"s87-w5-MG4.text" = "Kortin numero";
+
+/* Class = "UIViewController"; title = "Scan credit card"; ObjectID = "t06-sU-vDs"; */
+"t06-sU-vDs.title" = "Lue kortti kameralla";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "ukl-KZ-vKA"; */
+"ukl-KZ-vKA.text" = "*";
+
+/* Class = "UINavigationItem"; title = "Save card"; ObjectID = "wOS-RZ-fbL"; */
+"wOS-RZ-fbL.title" = "Tallenna kortti";
+
+/* Class = "UILabel"; text = "XXXX XXXX XXXX 1234"; ObjectID = "xYD-9U-KX8"; */
+"xYD-9U-KX8.text" = "XXXX XXXX XXXX 1234";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xZR-U3-DC6"; */
+"xZR-U3-DC6.text" = "Label";
+
+/* Class = "UILabel"; text = "Securely save my card for later use"; ObjectID = "yY7-CX-xjE"; */
+"yY7-CX-xjE.text" = "Tallenna kortti myöhempään käyttöön";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "zKr-ut-SXJ"; */
+"zKr-ut-SXJ.title" = "Peruuta";
+
+/* Class = "UILabel"; text = "Currency"; ObjectID = "zyE-Xl-NU7"; */
+"zyE-Xl-NU7.text" = "Valuutta";

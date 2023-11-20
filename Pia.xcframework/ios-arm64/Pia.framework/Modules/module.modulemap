@@ -1,0 +1,6 @@
+framework module Pia {
+  umbrella header "Pia.h"
+
+  export *
+  module * { export * }
+}
